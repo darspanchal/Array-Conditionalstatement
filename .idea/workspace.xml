@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0343cab0-5ff4-4040-92f7-e100eb9b5a9f" name="Default Changelist" comment="" />
+    <list default="true" id="0343cab0-5ff4-4040-92f7-e100eb9b5a9f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WyVafXIXe0punFgE4fwOLczhQf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,7 +29,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
-  <component name="RunManager" selected="Application.Reversenumber">
+  <component name="RunManager" selected="Application.Countword">
+    <configuration name="Countword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Countword" />
+      <module name="Array&amp;Conditionalstatement" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Evenandodd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Evenandodd" />
       <module name="Array&amp;Conditionalstatement" />
@@ -34,13 +46,6 @@
     </configuration>
     <configuration name="Reversenumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Reversenumber" />
-      <module name="Array&amp;Conditionalstatement" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Stringcount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stringcount" />
       <module name="Array&amp;Conditionalstatement" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,11 +67,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Countword" />
         <item itemvalue="Application.Reversenumber" />
         <item itemvalue="Application.multiplicationtable" />
         <item itemvalue="Application.Evenandodd" />
         <item itemvalue="Application.arraywithspevalue" />
-        <item itemvalue="Application.Stringcount" />
       </list>
     </recent_temporary>
   </component>
@@ -104,22 +109,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="91" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580294617095" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1580263138513">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1580336530018">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580263138513" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1580263138513">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580336530018" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1580336530018">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580263138513" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1580263138513">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580336530018" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1580336530018">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580263138513" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1580263138513">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580336530018" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1580336530018">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580263138513" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580336530018" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1580255268868">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
